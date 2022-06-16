@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './ver-pais.component.html'
 })
 export class VerPaisComponent implements OnInit {
-
+  
   constructor() { }
 
   ngOnInit(): void {
